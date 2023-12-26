@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects: (In-Process)</h2>
 
 - <b>Try Hack Me Portfolio</b>
   - [SOC Hands-on Practice Walkthroughs](<!--URL-->)
