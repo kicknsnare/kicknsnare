@@ -50,7 +50,11 @@
   - [Frameworks, Theory and Notes](<!--URL-->)
 - <b>Hack The Box Portfolio</b>
   - [Walktroughs](<!--URL-->)
-
+- <b>SOC Labs and Projects</b>
+  - [Labs](<!--URL-->)
+  - [Projects](<!--URL-->)
+- <b>Ethical Hacking</b>
+  - [Projects](<!--URL-->)
 
  <hr/>
  
