@@ -5,42 +5,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Octavio+Ramirez;+Also+kicknsnare🐤;" />
 </h1>
 
-<h3 align="center">A passionate cybersecurity student from Costa Rica</h3>
+<h2>Octavio Ramirez</h2>
+<b>I'm Octavio from Costa Rica. I'm a passionate cybersecurity student. I'm currently learning using tools like TryHackMe, HackTheBox, Picoctf, LetsDefend, and other websites/labs. I consider myself as a Highly Disciplined Person, Constant Learner and Resilient. I'm building a portfolio and writting down some notes from CTFs. Feel free to check it out to see my process</b>
 
-<br/>
-
-<div align="center">
- 
-  I’m currently **A Part-Time Student**
- 
-  I’m currently learning **Cybersecurity, SOC and Ethical-Hacking**
-
-  I consider myself as **A highy Disciplined Person, Constant Learner and Resilient**
-
- </div>
-
-<div align="center">
+<!--<div align="center">
     <!--![tryhackme stats](https://raw.githubusercontent.com/<kickNsnare>/<kickNsnare>/master/assets/thm_propic.png)  it didn't work-->
-
+    
+<h2>CTFs Profiles</h2>
 </div>
 <!-- TryHackMe-->
-<div align="center">
+<div align="left">
     <img src="https://tryhackme-badges.s3.amazonaws.com/kickNsnare.png" alt="TryHackMe">
     
 </div>
 
- 
-<div align="center"> 
-  <a href="mailto:octaviomiguel99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/octavio-ramirez-ureña-6a5276292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!--<a href="portfolio URL" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> -->
-  </a>
-</div>
 
 <h2> Cybersecurity Projects: (In-Process)</h2>
 
@@ -56,6 +34,8 @@
 - <b>Ethical Hacking</b>
   - [Projects](<!--URL-->)
 
+
+
  <hr/>
  
 <h2 align="center"> Languages-Frameworks-Tools </h2>
@@ -67,3 +47,11 @@
 
 <br/>
 <hr/>
+
+
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/octavio-ramirez-ureña-6a5276292/
