@@ -18,6 +18,11 @@
   I consider myself as **A highy Disciplined Person, Constant Learner and Resilient**
 
  </div>
+
+<div align="center">
+    ![tryhackme stats](https://raw.githubusercontent.com/<kickNsnare>/<kickNsnare>/master/assets/thm_propic.png)
+
+</div>
  
 <div align="center"> 
   <a href="mailto:octaviomiguel99@gmail.com">
