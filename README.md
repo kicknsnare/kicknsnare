@@ -42,6 +42,16 @@
   </a>
 </div>
 
+<h2> Cybersecurity Projects:</h2>
+
+- <b>Try Hack Me Portfolio</b>
+  - [SOC Hands-on Practice Walkthroughs](<!--URL-->)
+  - [Pentesting Hands-on Practice Walkthroughs](<!--URL-->)
+  - [Frameworks, Theory and Notes](<!--URL-->)
+- <b>Hack The Box Portfolio</b>
+  - [Walktroughs](<!--URL-->)
+
+
  <hr/>
  
 <h2 align="center"> Languages-Frameworks-Tools </h2>
