@@ -20,9 +20,15 @@
  </div>
 
 <div align="center">
-    ![tryhackme stats](https://raw.githubusercontent.com/<kickNsnare>/<kickNsnare>/master/assets/thm_propic.png)
+    <!--![tryhackme stats](https://raw.githubusercontent.com/<kickNsnare>/<kickNsnare>/master/assets/thm_propic.png)  it didn't work-->
 
 </div>
+<!-- TryHackMe-->
+<div align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kickNsnare.png" alt="TryHackMe">
+    
+</div>
+
  
 <div align="center"> 
   <a href="mailto:octaviomiguel99@gmail.com">
