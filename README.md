@@ -23,7 +23,7 @@
 <h2> Cybersecurity Projects: (In-Process)</h2>
 
 - <b>Try Hack Me Portfolio</b>
-  - [SOC Hands-on Practice Walkthroughs](<!--URL-->)
+  - [SOC Hands-on Practice Walkthroughs](https://github.com/kicknsnare/Gitbook)
   - [Pentesting Hands-on Practice Walkthroughs](<!--URL-->)
   - [Frameworks, Theory and Notes](<!--URL-->)
 - <b>Hack The Box Portfolio</b>
