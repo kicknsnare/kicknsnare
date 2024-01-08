@@ -25,14 +25,14 @@
 - <b>Try Hack Me Portfolio</b>
   - [SOC Hands-on Practice Walkthroughs](https://github.com/kicknsnare/Gitbook)
   - [Pentesting Hands-on Practice Walkthroughs](https://github.com/kicknsnare/Pentesting-Portfolio-GitBook)
-  - [Frameworks, Theory and Notes](<!--URL-->) In progress
+  - [Frameworks, Theory and Notes](<!--URL-->) In-Process
 - <b>Hack The Box Portfolio</b>
-  - [Walktroughs](<!--URL-->) In progress
+  - [Walktroughs](<!--URL-->) In-Process
 - <b>SOC Labs and Projects</b>
   - [Labs](https://github.com/kicknsnare/SOC-LABS-Gitbook)
-  - [Projects](<!--URL-->) In pogress
+  - [Projects](<!--URL-->) In-Process
 - <b>Ethical Hacking</b>
-  - [Projects](<!--URL-->) In progress
+  - [Projects](<!--URL-->) In-Process
 
 
 
