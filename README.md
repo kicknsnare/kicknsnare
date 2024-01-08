@@ -15,7 +15,7 @@
 </div>
 <!-- TryHackMe-->
 <div align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kickNsnare.png" alt="TryHackMe">
+    
     
 </div>
 
