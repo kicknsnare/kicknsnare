@@ -8,8 +8,7 @@
 <h2>Octavio Ramirez</h2>
 <b>I'm Octavio from Costa Rica. I'm a passionate cybersecurity student. I'm currently learning using tools like TryHackMe, HackTheBox, Picoctf, LetsDefend, and other websites/labs. I consider myself as a Highly Disciplined Person, Constant Learner and Resilient. I'm building a portfolio and writting down some notes from CTFs. Feel free to check it out to see my process</b>
 
-<!--<div align="center">
-    <!--![tryhackme stats](https://raw.githubusercontent.com/<kickNsnare>/<kickNsnare>/master/assets/thm_propic.png)  it didn't work-->
+
     
 <h2>CTFs Profiles</h2>
 </div>
@@ -19,6 +18,10 @@
     
 </div>
 
+<h2> IT Portfolio:</h2>
+
+- <b>IT Training</b>
+  - [IT Support Technical Skills Bootcamp]( <!--URL-->)
 
 <h2> Cybersecurity Projects: (In-Process)</h2>
 
