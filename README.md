@@ -21,7 +21,7 @@
 <h2> IT Portfolio:</h2>
 
 - <b>IT Training</b>
-  - [IT Support Technical Skills Bootcamp]( <!--URL-->) Currently working on it
+  - [IT Support Technical Skills Bootcamp](https://github.com/kicknsnare/IT-Portfolio-GitBook) Currently working on it
 
 <h2> Cybersecurity Projects: (In-Process)</h2>
 
